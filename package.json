@@ -1,0 +1,14 @@
+{
+  "name": "sfb927",
+  "version": "1.0.0",
+  "description": "SF_B9.2.7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergei Lipovyi",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.0"
+  }
+}
